@@ -11,3 +11,7 @@ Add a Second Line.
 New DFD with the manager.
 
 ![alt text](https://cloud.githubusercontent.com/assets/9424384/18656171/9154347a-7eb4-11e6-8d41-bdc994dd28db.JPG)
+
+Updated DFD addressing issues outlined by Professor Germonprez
+
+![alt text](https://cloud.githubusercontent.com/assets/9424384/18939641/455a5788-85c7-11e6-9e27-fee267cfb175.jpeg)
