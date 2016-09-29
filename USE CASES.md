@@ -1,8 +1,12 @@
 Use Case #1
 
-Primary Actor: Company Manager
+Primary Actor:
 
-Goal in Context: The company manager is able to determine license and vulnerability information from provided project information
+	Company Manager
+
+Goal in Context:
+
+	The company manager is able to determine license and vulnerability information from provided project information
 
 Stakeholders:
 
@@ -20,8 +24,14 @@ Preconditions:
 
 	o	Proper project information has been provided
 
-Main Success Scenario: Company manager receives accurate license and vulnerability information for the requested project packages
+Main Success Scenario:
 
-Failed End Conditions: Company manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+	Company manager receives accurate license and vulnerability information for the requested project packages
 
-Trigger: Company manager uploads or identifies project information to which license and vulnerability information is provided
+Failed End Conditions:
+
+	Company manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+
+Trigger:
+
+	Company manager uploads or identifies project information to which license and vulnerability information is provided
