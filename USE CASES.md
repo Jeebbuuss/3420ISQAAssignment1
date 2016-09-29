@@ -1,5 +1,7 @@
 Use Case #1
 
+Title: ????
+
 Primary Actor:
 
 	Company Manager
@@ -20,7 +22,7 @@ Stakeholders:
 
 Preconditions:
 
-	o	Relevant file/package information is in the Program and License database
+	o	Relevant file/package information is in the Software Package License and Vulnerabiltiy database
 
 	o	Proper project information has been provided
 
