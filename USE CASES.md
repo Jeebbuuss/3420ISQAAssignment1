@@ -16,7 +16,7 @@ Stakeholders:
 
 Preconditions:
 
-	o	Relevant file/package information is in the SPDX database
+	o	Relevant file/package information is in the Program and License database
 
 	o	Proper project information has been provided
 
