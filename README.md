@@ -1,9 +1,14 @@
 # 3420ISQAAssignment1
 
-This is part of the README
+My name is Jesus Perez.
 
-Executive Summary
+This is my README file.  This file will include the following files.
 
-License
+  Dictionary
+  DFD
+  Three (3) Use Cases
+  Executive Summary
+
+  License
 
 Etc.
