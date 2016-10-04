@@ -15,3 +15,7 @@ New DFD with the manager.
 Updated DFD addressing issues outlined by Professor Germonprez
 
 ![alt text](https://cloud.githubusercontent.com/assets/9424384/18939641/455a5788-85c7-11e6-9e27-fee267cfb175.jpeg)
+
+Update to the DFD to better show the manager access and updates to the license and vulnerability database.
+
+![alt text](https://cloud.githubusercontent.com/assets/9424384/19061501/fd49942e-89b6-11e6-9df2-d677e0da3c4c.jpeg)
