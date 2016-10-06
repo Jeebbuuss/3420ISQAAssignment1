@@ -2,3 +2,11 @@
 
 This is the dictionary file.  It will be used to define all the entities, processes and dataflows in the Data Flow Diagram.
 
+	Company Developer – This individual procures new software programs for the company use and alters or compiles the software according to the project requirements.  He or she must obtain final approval for all software acquisitions from the company manager.
+
+	Company Manager – This individual will submit project requests according to company policies and requirements.  He or she will also supervise program approvals and can amend or submit new requirements for the company policy.
+	
+	Project Owner – The final customer for the project.  This individual or group set the original policy documents and have the final say on any changes to policy changes.
+
+	Software Owner – This individual or group creates the software and software packages.  They set the limits and licenses on the software use.
+
