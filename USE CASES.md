@@ -59,10 +59,9 @@ Stakeholders:
 
 Preconditions:
 
-	
-	Relevant file/package information is in the License and Vulnerability Database
+	o	Relevant file/package information is in the License and Vulnerability Database
 
-	Proper software information has been provided
+	o	Proper software information has been provided
 
 Main Success Scenario:
 
@@ -70,11 +69,11 @@ Main Success Scenario:
 
 Failed End Conditions:
 
-	The program is rejected.
+	o	The program is rejected.
 
-	The program license cannot be found.
+	o	The program license cannot be found.
 
-	The program scanner fails to match the license correctly.
+	o	The program scanner fails to match the license correctly.
 
 Trigger :
 
