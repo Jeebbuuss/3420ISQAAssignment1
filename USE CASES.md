@@ -36,20 +36,37 @@ Trigger:
 
 	Company manager uploads or identifies project information to which license and vulnerability information is provided
 
+_______________________________________________________________________________________________________________________________________
+
 
 Use Case #2
 
-Title : Input Program
+Title:
 
-Primary Actor : Developer
+	Input Program
 
-Goal in Context : Developer enters the Open Source Software to the Database and the OSS is acceptable for the company’s use
+Primary Actor:
 
-Stakeholders : Developer, Manager, Company, Open Source Program owner
+	Developer
 
-Preconditions : 
+Goal in Context:
 
-Main Success Scenario: The program is accepted as usable for the company.
+	Developer enters the Open Source Software to the Database and the OSS is acceptable for the company’s use
+
+Stakeholders:
+
+	Developer, Manager, Company, Open Source Program owner
+
+Preconditions:
+
+	
+	Relevant file/package information is in the License and Vulnerability Database
+
+	Proper software information has been provided
+
+Main Success Scenario:
+
+	The program is accepted as usable for the company.
 
 Failed End Conditions:
 
@@ -60,3 +77,5 @@ Failed End Conditions:
 	The program scanner fails to match the license correctly.
 
 Trigger :
+
+	The company developer enters the Open Source Software into the Software License and Vulnerability Scanner for a scan of the software to compare with the License and Vulnerability Database files.
