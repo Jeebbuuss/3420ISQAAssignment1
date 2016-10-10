@@ -12,6 +12,4 @@ This is my README file.  This file will include the following files.
 
 	Executive Summary
   
- 	License
-
 Etc.
