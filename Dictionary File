@@ -3,10 +3,43 @@
 This is the dictionary file.  It will be used to define all the entities, processes and dataflows in the Data Flow Diagram.
 
 	Company Developer – This individual procures new software programs for the company use and alters or compiles the software according to the project requirements.  He or she must obtain final approval for all software acquisitions from the company manager.
-
-	Company Manager – This individual will submit project requests according to company policies and requirements.  He or she will also supervise program approvals and can amend or submit new requirements for the company policy.
 	
+	Company Manager – This individual will submit project requests according to company policies and requirements.  He or she will also supervise program approvals and can amend or submit new requirements for the company policy.
+
+	License and Vulnerability Database¬ – Database that holds the different open source program licenses and the vulnerabilities associated with each license.
+
+	License and Vulnerability Database Access – Program to allow approved individuals access to the License and Vulnerability Database.
+
+	License and Vulnerability Database Data – Data and files returned from the License and Vulnerability Database by the License and Vulnerability Database Access program to approved individuals in response to a License and Vulnerability Database Data Request.  The data can be a single file or it can be the entire database file depending on the request.
+
+	License and Vulnerability Database Data Request – Data request from the License and Vulnerability Database by an approved individual.
+
+	License and Vulnerability Update File – A file to update, add or remove license information or vulnerability information to the License and Vulnerability Database.
+
+	License and Vulnerability Policy Update Process – Program to allow the manager to update, add or remove license or vulnerability information to the License and Vulnerability Database.
+
+	License Details – Information about the licenses contained in the License and Vulnerability Database.  This information will include keywords, the license verbiage and date the license version was created.
+
+	License Names – The names and version number of the different licenses contained in the License and Vulnerability Database.
+
+	Open Source Program – A program that is created and licensed for public distribution.  The program can be made or created by an individual or a group to address or solve a particular need.
+
+	Open Source Program, License Name and Details – A combination file of the open source program and the license name and details under which it is licensed.
+
+	Open Source Program, License Name and Details Scan Results – The file containing the Open Source Program, License Name and Details that is returned by the Software License and Vulnerability Scanner program.
+
+	Program and License Data Request – A request of information from the Program, License and Vulnerability Database.
+
+	Program and License Database Access – The program that allows access and returns information from the Program, License and Vulnerabilities Database.
+
+	Program, License and Vulnerability Database – Database holding the results of the Software License and Vulnerability Scanner.
+
+	Program Name, License Name and Details and Vulnerabilities – The file containing the Open Source Program, License Name and Details that is returned by the Program and License Data Access program.
+
 	Project Owner – The final customer for the project.  This individual or group set the original policy documents and have the final say on any changes to policy changes.
 
 	Software Owner – This individual or group creates the software and software packages.  They set the limits and licenses on the software use.
 
+	Software License and Vulnerability Scanner – Program to scan incoming open source programs and compare them to the License and Vulnerability Database.  The data is written to the Program, License and Vulnerability Database and a copy is returned to the developer.
+
+	Updated License and Vulnerability File – File returned to the manager after the License and Vulnerability Database is updated.  The file will be the new file within the database or a confirmation that the requested information deletions have been performed.
