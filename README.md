@@ -11,5 +11,7 @@ This is my README file.  This file will include the following files.
 	Three (3) Use Cases
 
 	Executive Summary
+	
+	License
   
 Etc.
